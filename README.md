@@ -8,7 +8,7 @@ Where:
 - R_f  signifies the risk-free rate of return,
 - β_i  denotes the beta of security i,
 - E[R_m ] represents the expected return on the market, and
-- 〖(R〗_m- R_f) indicates the market premium.
+- (R_m- R_f) indicates the market premium.
 
 We can directly visualize the CAPM postulates with his graphical representation, the Security Market Line (SML).
 
